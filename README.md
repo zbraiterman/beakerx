@@ -128,7 +128,7 @@ Copyright :copyright: 2001, Janko Hauser
 Copyright :copyright: 2001, Nathaniel Gray
 
 The table of contents and init cells extensions come from:
-<a href="https://github.com/ipython-contrib/jupyter_contrib_nbextensions/blob/master/COPYING.rst">IPython-contrib</a> Copyright (c) 2013-2015, IPython-contrib Developers
+<a href="https://github.com/ipython-contrib/jupyter_contrib_nbextensions/blob/master/COPYING.rst">IPython-contrib</a> Copyright :copyright: 2013-2015, IPython-contrib Developers
 
 <a href="http://www.scala-lang.org/license.html">Scala</a> Copyright :copyright: 2002-2015 EPFL
 Copyright :copyright: 2011-2015 Typesafe, Inc.
